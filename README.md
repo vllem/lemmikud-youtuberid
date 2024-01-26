@@ -1,5 +1,5 @@
-Ma ausalt ei oska 8elda miks ma selle kokku panin aga panin.
-Siin on mu lemmikud youtuberid, keda mulle meeldib vaadata:
+Ma ausalt ei oska 8elda miks ma selle kokku panin aga panin. <br>
+Siin on mu lemmikud youtuberid, keda mulle meeldib vaadata: <br>
 
 1. [Pyramid Inu](https://www.youtube.com/@pyramidinu9449/) <br>
 Hea meedia analyys, peamiselt anime aga ka yldise jaapani kui ka l22ne meedia.
@@ -12,17 +12,21 @@ Head ajaloo videod, peaaegu iga maailmaosa kohta ning iga teema kohta.
 - [Semicondcutor Lore](https://www.youtube.com/watch?v=cxrkC-pMH_s&list=PLKtxx9TnH76SXumAiJX3N7Y36G2Gxi8zc)
 
 3. [Cambrian Chronicles](https://www.youtube.com/@CambrianChronicles/) <br>
-Head ajaloo videod, peamiselt Wales'i ajaloost. Millegi p2rast mu lemmikud videod temalt on m6lemad seotud kuidagi merega.
+Head ajaloo videod, peamiselt Wales'i ajaloost. <br>
+Millegi p2rast mu lemmikud videod temalt on m6lemad seotud kuidagi merega. <br>
 - [The Mystery of the Missing Medieval Sea](https://www.youtube.com/watch?v=xIpsQb5RtT4)
 - [The Mystery of the Kingdom that Sank into the Ocean](https://youtu.be/9onpcWYGcy0?si=ScD1t8mmxmnRG2UJ)
 
 4. [Mental Outlaw](https://www.youtube.com/@MentalOutlaw/) <br>
-Lihtsalt v2ga head videod tehnoloogia kohta, pole m6tet oodata mingeid intellektuaalseid videoid. Uudised tehnoloogia maailmast ja viisid kuidas endale tehnoloogiat paremaks teha. Pole m6tet vaadata paljusid videoid kuna vend on veidike liiga 4channer.
+Lihtsalt v2ga head videod tehnoloogia kohta, pole m6tet oodata mingeid intellektuaalseid videoid. <br>
+Uudised tehnoloogia maailmast ja viisid kuidas endale tehnoloogiat paremaks teha. <br>
+Pole m6tet vaadata paljusid videoid kuna vend on veidike liiga 4channer. <br>
 - [FBI Demands User Data From Signal - Here's What They Got](https://youtu.be/3oPeIbpA5x8?si=v58u4tlVElg7_zsI)
 - [University of Minnesota Gets Banned From Linux](https://youtu.be/JH_BGlS5LR4?si=GJeBwsWsSyqH9ptR)
 
 5. [Luke Smith](https://www.youtube.com/@LukeSmithxyz/) <br>
-Sama, mis Mental Outlaw'iga. Palju videoid ei tasu vaadata kuna vend on veidike liiga 4channer off-the-grid weirdo. Ta videod web bloati kohta on head. Rohkem videoid on tal [Odysee](https://odysee.com/@Luke:7?view=content) platvormil.
+Sama, mis Mental Outlaw'iga, üalju videoid ei tasu vaadata kuna vend on veidike liiga 4channer off-the-grid weirdo. <br>
+Ta videod web bloati kohta on head, rohkem videoid on tal [Odysee](https://odysee.com/@Luke:7?view=content) platvormil. <br>
 - [Hugo Actually Explained (Websites, Themes, Layouts, and Intro to Scripting)](https://youtu.be/ZFL09qhKi5I?si=zq5TWKOVO2P5monZ)
 - [A Demonstration of Modern Web Bloat](https://www.youtube.com/watch?v=cvDyQUpaFf4)
 
@@ -60,7 +64,7 @@ Ma kyll ei ole suur anarhist aga Zoe Baker'i videod kohe kindlasti tutvustasid m
 - [Malatesta's birthday and my multiverse of madness](https://youtu.be/dnfMh9JSBhs?si=XEb_VuZK_hYTBB1D)
 
 12. [lil' bill](https://www.youtube.com/@lilbilliam/) <br>
-Ei oska myya v2ga. Lihtsalt vaadake ja kui meeldib siis meeldib.
+Ei oska myya v2ga, lihtsalt vaadake ja kui meeldib siis meeldib.
 - [he was the most important ball player of the last 20 years](https://youtu.be/aVgJmOmlS3M?si=IGT_OZsFCRLb9cVG)
 - [Gen Z Is (Un)Dateable. This Is Why](https://youtu.be/hxNfycto61w?si=53YMRy5cWchYBV61)
 
